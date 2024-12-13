@@ -1,5 +1,5 @@
 // app/api/users/route.ts
-import { NextResponse } from 'next/server';
+/*import { NextResponse } from 'next/server';
 import { db } from '@/lib/db';
 
 // Định nghĩa kiểu cho người dùng
@@ -18,3 +18,4 @@ export async function GET() {
     return NextResponse.json({ error: 'Database query failed' }, { status: 500 });
   }
 }
+*/
